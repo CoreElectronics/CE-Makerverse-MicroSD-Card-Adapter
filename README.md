@@ -1,4 +1,4 @@
-# Makerverse™ Motor Driver - 2 channel / BiPolar Stepper
+# Makerverse™ MicroSD Card Adapter
 
 ![](https://core-electronics.com.au/media/catalog/product/cache/1/image/650x650/fe1bcd18654db18f328c2faaaf3c690a/m/a/makerverse-micro-sd-module-adapter.jpg)
 
